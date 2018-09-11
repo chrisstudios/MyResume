@@ -7,13 +7,11 @@ My name is Christopher Corr and I am a sophomore at DePaul University studying I
 I am a graphic designer and own my own design business by the name of Chris Studios LLC.
 ```markdown
 Some of my experience:
-# Owner of Chris Studios LLC
-## Store Consultant at Fedex Office
-### Technology Sales Associate at Staples
+- Owner of Chris Studios LLC
+- Store Consultant at Fedex Office
+- Technology Sales Associate at Staples
 
-
-
-My website: https://www.ChrisStudios.net
+My business website: https://www.ChrisStudios.net
 ```
 
 For more info about me, visit: https://www.Christopher-Corr.com
